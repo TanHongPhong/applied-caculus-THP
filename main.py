@@ -76,7 +76,7 @@ O2 = (4.8,0)
 D = 0.2
 
 R = R1 = R2 = 10
-k=0
+k=6.46
 theta_deg = 7
 theta = np.deg2rad(theta_deg) 
 n1=1
